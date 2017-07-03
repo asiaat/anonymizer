@@ -1,0 +1,38 @@
+Isikunimede anonümiseerija
+
+On masinõppel põhinev programm, mis eemaldab eesti keelsest kirjalikust tekstist isikunimed.
+
+
+probleem: Lause analüüs ja morfoloogiline analüsaator
+
+Pärisnime ja temaga foneetiliselt sama, kuid muu liiki sõna erineb lauses oma funktsiooni poolest.
+
+Seega saab kasutada morfoloogilist analüsaatorit, et määrata sõna liik. Kahjuks  tuntud eesti
+keele morfoloogiline analüsaator http://www.filosoft.ee/html_morf_et määrab ära küll pärisnimesid,
+kuid kui see on samane foneetiliselt mingi muu sõnaga millel on tähendus, siis ta seda pärisnimeks ei
+pea.
+
+ Näiteks lauses
+Aadu
+Aadu+0 //_H_ sg g, sg n, //
+Must
+mina+st //_P_ sg el, //
+must+0 //_A_ sg n, //
+must+0 //_S_ sg n, //
+sõi
+söö+i //_V_ s, //
+musta
+must+0 //_A_ adt, sg p, //
+must+0 //_A_ sg g, //
+must+0 //_S_ adt, sg p, //
+must+0 //_S_ sg g, //
+musta+0 //_V_ o, //
+leiba
+leib+0 //_S_ adt, sg p, //
+
+Seega tuleks leida muud iseloomulikud kirjeldav omadused, mis eristaks pärisnime muudest sõnadest. 
+
+Lahendus:
+
+Isikunimede analüsaator leiab vajalikud kõige iseloomulikumad tunnused, mis on vaja analüsaatori treenimiseks, ning pärast 
+klassifitseerija treenimist saab kasutada analüsaatorit lausest pärisnimede nö. eemaldamiseks( kindlask tegemiseks)
