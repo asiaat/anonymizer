@@ -1,0 +1,46 @@
+Aadu //_H_ Must //_P_ sõi //_V_ musta //_A_ leiba //_S_ ;;1
+Haabneeme //_S_ külas //_S_ põleb //_V_ ettevõtja //_S_ Toomas //_H_ Toolile //_S_ kuuluv //_V_ endine //_A_ lasteaed //_S_ Piilupesa //_S_ ;;5
+Seega //_D_ hoidis //_V_ Harris //_H_ käes //_K_ pöörlevat //_V_ fidget //_S_ spinnerit //_S_ ;;2
+Harrise //_H_ poeg //_S_ sai //_V_ EMOs //_Y_ kokku //_S_ 30 //_N_ õmblust //_S_ ;;0
+Täna //_D_ kell //_S_ 18 //_N_ 00 //_N_ kohtusid //_V_ Stenbocki //_H_ majas //_S_ Eesti //_H_ peaminister //_S_ Jüri //_H_ Ratas //_S_ ja //_J_ Prantsusmaa //_H_ peaminister //_S_ ;;9
+Tipptennisesse //_S_ naasnud //_V_ Kaia //_H_ Kanepi //_H_ WTA //_Y_ 544 //_N_ alistas //_V_ ;;3
+peatati //_V_ mäng //_S_ taaskord //_D_ Kanepi //_H_ 2 //_N_ 3 //_N_ kaotusseisus //_S_ ;;3
+Põhiturniirile //_S_ pääsemiseks //_S_ tuleb //_V_ Kanepil //_H_ alistada //_V_ veel //_D_ kaks //_N_ vastast //_A_ ;;3
+Pel //_H_ tõdes //_V_ et //_J_ oli //_V_ vahva //_A_ ;;0
+eurosaadik //_S_ Yana //_H_ Toom //_S_ andis //_V_ täna //_D_ ;;2
+Keskerakonna //_S_ esimees //_S_ Jüri //_H_ Ratas //_S_ ütles //_V_ ;;3
+kohtub //_V_ kindlasti //_D_ veel //_D_ Yana //_H_ Toomiga //_S_ ja //_J_ arutab //_V_ ;;4
+Muu //_P_ hulgas //_D_ ütles //_V_ Ratas //_S_ et //_J_ vaidlused //_S_ ei //_D_ käi //_S_ ;;3
+kus //_D_ Toomil //_S_ on //_V_ soovi //_S_ korral //_S_ olemas //_V_ ;;1
+Kõlvart //_H_ ja //_J_ Yana //_H_ Toom //_S_ ei //_D_ vaheta //_S_ kohtasid //_S_ ;;3
+Keskerakonna //_S_ juhatusse //_S_ kuuluv //_V_ eurosaadik //_S_ Yana //_H_ Toom //_S_ ütles //_V_ Postimehele //_S_ ;;5
+Keskerakonna //_S_ juhatusse //_S_ kuuluv //_V_ eurosaadik //_S_ Yana //_H_ Toom //_S_ ütles //_V_ Postimehele //_S_ ;;7
+erakonna //_S_ esimehe //_S_ Jüri //_H_ Ratase //_H_ ja //_J_ aseesimehe //_S_ ;;3
+Põhja-Tallinna //_H_ vanem //_C_ Raimond //_H_ Kaljulaid //_S_ leiab //_V_ ;;3
+Postimees //_S_ avaldab //_V_ Kaljulaidi //_H_ kommentaari //_S_ ;;2
+on //_V_ Jüri //_H_ Ratase //_H_ tsentristlik //_A_ valitsus //_S_ ;;2
+Majandusminister //_S_ Kadri //_H_ Simson //_H_ oli //_V_ hiljuti //_V_ ;;2
+keskerakondlased //_S_ Toom //_S_ Ivanova //_H_ Savisaar //_S_ Loone //_H_ ja //_J_ teised //_O_ ;;1
+keskerakondlased //_S_ Toom //_S_ Ivanova //_H_ Savisaar //_S_ Loone //_H_ ja //_J_ teised //_O_ ;;3
+peaminister //_S_ Jüri //_H_ Ratas //_S_ tegi //_P_ pressikonverentsi //_S_ järel //_D_ ;;2
+Keskerakonna //_S_ peasekretär //_S_ on //_V_ Korb //_H_ kes //_P_ NATOt //_Y_ ;;3
+kohtu //_V_ all //_D_ oleva //_A_ Edgar //_H_ Savisaare //_S_ toetajate //_S_ vahel //_S_ ;;4
+riigikogu //_S_ liikme //_S_ Oudekki //_H_ Loonega //_H_ Ratasele //_H_ avaliku //_A_ kirja //_S_ ;;3
+riigikogu //_S_ liikme //_S_ Oudekki //_H_ Loonega //_H_ Ratasele //_H_ avaliku //_A_ kirja //_S_ ;;4
+võibki //_V_ jääda //_V_ pärast //_S_ Ratase //_H_ erakonna //_S_ esimeheks //_S_ ;;3
+lugeda //_V_ suhtekorraldaja //_S_ Merlis //_H_ Nõgene //_H_ arvamust //_S_ ;;3
+riigikoguliige //_S_ Siret //_H_ Kotka-Repinski //_H_ jäi //_V_ fotokaamera //_S_ ette //_S_ ;;2
+Need //_P_ pikad //_A_ nagu //_D_ Liis //_H_ Haaveli //_H_ paturegister //_S_ ;;4
+Kaitseminister //_S_ Luik //_S_ osaleb //_V_ neljapäeval //_S_ ;;1
+kohtunud //_V_ kaitseminister //_S_ Jüri //_H_ Luik //_S_ rõhutas //_V_ ;;3
+Politoloog //_S_ Tõnis //_H_ Saarts //_H_ ütles //_V_ ;;2
+Poliitikaanalüütiku //_S_ Ahto //_H_ Lobjakase //_A_ hinnangul //_S_ ;;2
+Peale //_S_ selle //_P_ et //_J_ Yana //_H_ Toom //_S_ on //_V_ öelnud //_S_ ;;4
+saleb //_V_ läbirääkimistes //_S_ Yana //_H_ Toomiga //_S_ erakonna //_S_ esimees //_S_ Jüri //_H_ Ratas //_S_ ;;3
+
+
+
+
+
+
+
